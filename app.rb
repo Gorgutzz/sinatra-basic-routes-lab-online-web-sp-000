@@ -14,7 +14,4 @@ class App < Sinatra::Base
     'My favorite song is Lapti-Nek'
   end
 
-
-
-
 end
